@@ -1,6 +1,6 @@
 {
   "name": "randomcalculation",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A random number calculation library",
   "main": "app.js",
   "scripts": {
@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/tourcoder/Randomcalculation/issues"
   },
-  "homepage": "https://github.com/tourcoder/Randomcalculation#readme",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@tourcoder" 
-  }
+  "homepage": "https://github.com/tourcoder/Randomcalculation#readme"
 }
