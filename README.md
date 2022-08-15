@@ -2,6 +2,8 @@ Randomcalculation
 ===
 A random number calculation library
 
+Tips: This package was actually on npmjs.org for a few years, but due to a mistake by npmjs, it was deleted and could not be restored. npmjs suggested that I re-upload.
+
 ### Usage
 
 First, install it from NPM
